@@ -37,9 +37,7 @@ a {
     margin-left: 96px;
 }
 
-.media {
-    width:60%;
+img {
     height: auto;
-    display: flex;
-    flex: auto
+    width: 500px;
 }
