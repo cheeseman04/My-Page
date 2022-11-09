@@ -37,6 +37,10 @@ a {
     margin-left: 96px;
 }
 
+.container-one {
+    background-color:antiquewhite;
+}
+
 img {
     height: auto;
     width: 500px;
