@@ -52,7 +52,12 @@ a {
     font-weight: normal;
 }
 
+.text {
+    margin-left: 96px;
+}
+
 img {
     height: auto;
     width: 500px;
+    margin-right: 96px;
 }
