@@ -39,6 +39,7 @@ a {
 
 .container-one {
     background-color:antiquewhite;
+    display: flex;
 }
 
 .heading {
