@@ -41,6 +41,16 @@ a {
     background-color:antiquewhite;
 }
 
+.heading {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.content {
+    font-size: 18px;
+    font-weight: normal;
+}
+
 img {
     height: auto;
     width: 500px;
