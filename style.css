@@ -38,13 +38,17 @@ a {
 }
 
 .container-one {
-    background-color:antiquewhite;
+    background-color:#1F2937;
     display: flex;
+    gap: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
 }
 
 .heading {
     font-size: 48px;
     font-weight: bolder;
+    color: white;
 }
 
 .content {
