@@ -65,3 +65,9 @@ img {
     width: 500px;
     margin-right: 96px;
 }
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: solid 4px #3882f6;
+}
