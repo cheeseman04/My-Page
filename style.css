@@ -71,7 +71,6 @@ a {
     align-items: center;
     padding-top: 48px;
     padding-bottom: 48px;
-    text-align: left;
 }
 
 .content {
@@ -106,6 +105,3 @@ img {
     max-width: 100px;
 }
 
-.quote {
-    max-width: 600px;
-}
