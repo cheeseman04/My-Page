@@ -45,6 +45,10 @@ a {
     padding-bottom: 48px;
 }
 
+.container-two {
+    text-align: center;
+}
+
 .heading {
     font-size: 48px;
     font-weight: bolder;
@@ -56,7 +60,7 @@ a {
     font-weight: normal;
 }
 
-.text {
+.container-one .text {
     margin-left: 96px;
 }
 
@@ -75,4 +79,9 @@ img {
 .info {
     display: flex;
     justify-content: center;
+    gap: 52px;
+}
+
+.pod {
+    max-width: 100px;
 }
