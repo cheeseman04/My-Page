@@ -37,6 +37,12 @@ a {
     margin-left: 96px;
 }
 
+.container-one .heading {
+    font-size: 48px;
+    font-weight: bolder;
+    color: purple;
+}
+
 .container-one {
     background-color:#1F2937;
     display: flex;
@@ -49,10 +55,10 @@ a {
     text-align: center;
 }
 
-.heading {
-    font-size: 48px;
+.container-two .heading {
+    font-size: 36px;
     font-weight: bolder;
-    color: purple;
+    color: rgb(0, 0, 0);
 }
 
 .content {
@@ -73,6 +79,7 @@ img {
 .box {
     width: 100px;
     height: 100px;
+    margin-bottom: 8px;
     border: solid 4px #3882f6;
 }
 
