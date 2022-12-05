@@ -144,3 +144,9 @@ img {
     padding: 6px 24px;
     font-weight: bold;
 }
+
+.info-three .sub-header {
+    font-weight: bold;
+    font-size: 16px;
+    color: #E5E7EB;
+}
