@@ -126,4 +126,5 @@ img {
     height: auto;
     background-color:#3882f6;
     border-radius: 4px;
+    display: flex;
 }
