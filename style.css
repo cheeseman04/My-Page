@@ -31,6 +31,10 @@ a {
     color: white;
 }
 
+a:hover {
+    color: #2e62b6;
+}
+
 .logo {
     font-size: 24px;
     font-weight: bolder;
@@ -41,6 +45,12 @@ a {
     font-size: 48px;
     font-weight: bolder;
     color: rgb(255, 255, 255);
+}
+
+.container-one .button {
+    border: none;
+    background-color: #3882f6;
+    margin-top: 16px;
 }
 
 .container-one {
